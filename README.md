@@ -29,6 +29,7 @@ I possess a diverse set of skills, including but not limited to:
 Explore some of the exciting projects I've had the privilege to work on:
 
 - **EduScan**: An AWS application for seamless student identification and academic data retrieval.
+- **Playlistify**: A custom playlist creator for spotify.
 - **Cloud Vision**: A scalable image recognition on AWS.
 - **Sparky's Money Rush**: Aa immersive and interactive AR-based snapchat filter game.
 - **Foodie Finds**: A restaurant finder platform.
